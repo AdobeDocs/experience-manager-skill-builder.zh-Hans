@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '115'
+ht-degree: 3%
 
 ---
 
 # [!DNL Dynamic Media]-Adobe [!DNL Experience Manager Assets] 系列
 
-利用这个由五部分组成的网络研讨会系列来构建您的知识库，并最大限度地增加您在Adobe方面的投资 [!DNL Experience Manager Assets]. 如果您是初次使用Adobe的从业者 [!DNL Experience Manager Assets] 或一直在使用Adobe [!DNL Experience Manager Assets] 有一段时间，我们正在努力提升您现有的技能，这是深入了解解决方案最重要的五个领域的理想方法。 Adobe专家将审查基础知识，并提供高级见解，指导您采取可立即付诸实施的后续步骤。
+利用这个由五部分组成的网络研讨会系列来构建您的知识库，并最大限度地增加您在Adobe方面的投资 [!DNL Experience Manager Assets]. 发现或优化您的Adobe [!DNL Experience Manager Assets] 专业技能，重点深入了解其五个基本功能 — 您的快速熟练掌握。 Adobe专家会审查基础知识，并提供高级见解，为您提供可立即实施的可操作后续步骤。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -29,11 +29,11 @@ ht-degree: 2%
 
 ## 资源
 
-*[[!DNL Dynamic Media] 用例](https://www.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/dynamic-media_dynamic-media-classic-use-cases-2019.pdf)
-*[[!DNL Dynamic Media] 视频](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=en#dynamic-media)
+*[[!DNL Dynamic Media] 用例](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
+*[[!DNL Dynamic Media] 视频](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[富媒体策略快速入门指南](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[富媒体策略图像预设指南](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[图像即是所有内容博客系列](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
+*[Dynamic Media最佳实践](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## 系列录制
 

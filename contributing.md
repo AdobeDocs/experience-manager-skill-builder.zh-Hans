@@ -1,15 +1,15 @@
 ---
-source-git-commit: 0e74aa727f7d4f874cfc1fc0cfc18a7c30d83e73
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 100%
+source-wordcount: '292'
+ht-degree: 56%
 
 ---
-# 投稿
+# 为Adobe Experience Manager Skill Builder文档贡献内容
 
-感谢您选择投稿！
+感谢您选择为 Adobe Experience Manager Screens 文档贡献内容！Adobe 欢迎来自整个读者社区和 Adobe 员工的内容贡献。
 
-以下是在向本项目投稿时需要遵守的一组指南。
+本文将介绍如何贡献内容，并列出了贡献内容时应遵循的准则。
 
 ## 行为准则
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## 投稿人指南文档
 
-请参阅[投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
+请参阅[投稿人指南](https://experienceleague.adobe.com/zh-hans/docs/contributor/contributor-guide/introduction)。
 
 ## 还有疑问？
 
@@ -29,16 +29,13 @@ ht-degree: 100%
 
 ## 投稿人许可协议
 
-此项目的所有第三方投稿人必须随附已签署的投稿人
-许可协议。这将允许 Adobe 在项目中再次分发
-您贡献的内容。[签署我们的 CLA](http://opensource.adobe.com/cla.html). 您
+已签署的参与者许可协议必须随附对此项目的所有第三方投稿。 本协议允许Adobe在项目中再次分发您贡献的内容。 [签署Adobe的CLA](https://opensource.adobe.com/cla.html). 您
 只需提交一次 Adobe CLA 即可，因此，如果您以前已经提交过，
 则无需再次提交！
 
 ## 代码审核
 
-所有提交都应采用提取请求的形式，并且需要由项目提交者
-进行审核。请阅读 [GitHub 的提取请求文档](https://help.github.com/cn/articles/about-pull-requests/)，
+应以拉取请求的形式提交所有提交。 项目提交者审阅提交。 请阅读 [GitHub 的提取请求文档](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)，
 了解有关发送提取请求的更多信息。
 
 <!--
@@ -48,13 +45,8 @@ submitting a pull request!
 
 ## 从投稿人到提交人
 
-我们喜欢来自社区的投稿！如果您希望从投稿人更进一步
-并成为具有完整写入权限和项目发言权的提交人，您必须
-受邀加入项目。现有提交人采用内部提名
-流程，必须在发布邀请之前达成默认共识
-（不表态即批准）。如果您觉得您符合条件并且希望更深入地参与，
-请随时联系现有提交人以进行讨论。
+Adobe欢迎来自社区的贡献。 如果要成为具有完全写入权限且在项目中具有发言权的提交者，则必须受邀加入项目。 现有提交者采用内部提名流程，即在发出邀请之前必须达成懒惰共识（沉默即表示同意）。 如果您符合条件并且希望更多地参与其中，请联系现有提交者。
 
 ## 安全问题
 
-在此问题跟踪程序上不应报告安全问题，而是应该[向我们的安全专家提交问题](https://helpx.adobe.com/cn/security/alertus.html)
+在此问题跟踪程序上不应报告安全问题，相反， [向Adobe安全专家提出问题](https://helpx.adobe.com/cn/security/alertus.html)

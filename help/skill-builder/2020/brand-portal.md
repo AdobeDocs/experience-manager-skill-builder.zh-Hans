@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '108'
 ht-degree: 3%
 
 ---
 
 # Brand Portal -Adobe [!DNL Experience Manager Assets] 系列
 
-利用这个由五部分组成的网络研讨会系列来构建您的知识库，并最大限度地增加您在Adobe方面的投资 [!DNL Experience Manager Assets]. 如果您是初次使用Adobe的从业者 [!DNL Experience Manager Assets] 或一直在使用Adobe [!DNL Experience Manager Assets] 有一段时间，我们正在努力提升您现有的技能，这是深入了解解决方案最重要的五个领域的理想方法。 Adobe专家将审查基础知识，并提供高级见解，指导您采取可立即付诸实施的后续步骤。
+利用这个由五部分组成的网络研讨会系列来构建您的知识库，并最大限度地增加您在Adobe方面的投资 [!DNL Experience Manager Assets]. 提高您对Adobe的掌握 [!DNL Experience Manager Assets]无论您是初学者还是经验丰富者。 使用本全面指南深入了解平台的五个关键方面。 Adobe专家会审查基础知识，并提供高级见解，为您提供可立即实施的可操作后续步骤。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 
@@ -29,9 +29,9 @@ Brand Portal允许轻松地与内部和外部团队共享资源。
 
 ## 资源
 
-* [概述 [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
-* [[!UICONTROL Brand Portal] 视频](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal.html)
-* [[!DNL Asset] 来源](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
+* [概述 [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal)
+* [[!UICONTROL Brand Portal] 视频](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!DNL Asset] 来源](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## 系列录制
 
