@@ -19,9 +19,9 @@ ht-degree: 3%
 
 ---
 
-# 元数据 — Adobe [!DNL Experience Manager Assets] 系列
+# 元数据 — Adobe[!DNL Experience Manager Assets]系列
 
-利用这个由五部分组成的网络研讨会系列来构建您的知识库，并最大限度地增加您在Adobe方面的投资 [!DNL Experience Manager Assets]. 本课程是新用户和经验丰富用户的理想之选，可提供对Adobe的全面探讨 [!DNL Experience Manager Assets]的五大基本功能来取代该解决方案。 Adobe专家会审查基础知识，并提供高级见解，为您提供可立即实施的可操作后续步骤。
+使用这个由五部分组成的网络研讨会系列来构建您的知识库，并最大化您在Adobe[!DNL Experience Manager Assets]中的投资。 此会话非常适合于新用户和经验丰富的用户，它全面探讨了Adobe[!DNL Experience Manager Assets]的五个基本功能以取代该解决方案。 Adobe专家会审查基础知识，并提供高级见解，为您提供可立即实施的可操作后续步骤。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
