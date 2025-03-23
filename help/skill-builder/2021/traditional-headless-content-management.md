@@ -8,18 +8,18 @@ feature: Authoring
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8938
 exl-id: 86f2ce11-9603-4848-9626-46ed49ef821a
-source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# Adobe[!DNL Experience Manager Sites]基础知识
+# Adobe [!DNL Experience Manager Sites]基础知识
 
 在这个由5部分组成的网络研讨会系列中，了解如何在Adobe Experience Manager中创建丰富且引人入胜的客户体验。 该系列从内容创作的构建块开始，向您介绍基本概念和操作。 其中包括站点管理功能以及在AEM中处理数字资源的基础知识。 在系列的后半部分，探索可帮助您节省时间和效率的功能，具体做法是重新利用内容并在各个渠道之间交付内容。
 
