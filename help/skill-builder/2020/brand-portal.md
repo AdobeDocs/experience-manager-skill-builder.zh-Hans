@@ -29,9 +29,9 @@ Brand Portal允许轻松地与内部和外部团队共享资源。
 
 ## 资源
 
-* [[!UICONTROL Brand Portal]概述](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Brand Portal]视频](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
-* [[!DNL Asset] 来源](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
+* [[!UICONTROL Brand Portal]概述](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-brand-portal/using/introduction/brand-portal)
+* [[!UICONTROL Brand Portal]视频](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!DNL Asset] 来源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## 系列录制
 
