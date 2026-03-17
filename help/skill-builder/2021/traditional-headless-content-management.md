@@ -1,7 +1,7 @@
 ---
 title: Web及更高版本 — 传统和Headless内容管理的强大功能
 description: 了解传统和Headless CMS框架如何塑造内容管理和数字体验交付的未来。
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Authoring
@@ -12,9 +12,9 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8938
 exl-id: 86f2ce11-9603-4848-9626-46ed49ef821a
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---

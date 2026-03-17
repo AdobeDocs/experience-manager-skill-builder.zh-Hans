@@ -1,10 +1,10 @@
 ---
 title: '[!DNL Dynamic Media]'
 description: 为所有渠道和屏幕自动输出资产
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
-feature: "[!DNL Dynamic Media Classic]"
+feature: Dynamic Media Classic
 topic: Content Management
 role: User
 level: Beginner
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 3%
+source-wordcount: '193'
+ht-degree: 2%
 
 ---
 
@@ -29,11 +29,11 @@ ht-degree: 3%
 
 ## 资源
 
-*[[!DNL Dynamic Media] 用例](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
-*[[!DNL Dynamic Media] 视频](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
+*[[!DNL Dynamic Media] 用例](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
+*[[!DNL Dynamic Media] 视频](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[富媒体策略快速入门指南](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[富媒体策略图像预设指南](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Dynamic Media最佳做法](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
+*[Dynamic Media最佳做法](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## 系列录制
 

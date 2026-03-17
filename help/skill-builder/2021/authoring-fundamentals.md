@@ -1,7 +1,7 @@
 ---
 title: 快速创作吸引人的Web体验
 description: 了解创作基础知识和技能以快速构建和编辑页面。
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Authoring
@@ -12,9 +12,9 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8945
 exl-id: cc4b57a5-c76a-48fa-9c05-39374081fc45
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---

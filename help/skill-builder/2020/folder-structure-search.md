@@ -1,7 +1,7 @@
 ---
 title: 文件夹结构和搜索
 description: 设置和使用DAM的基础知识
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Asset Management
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 2%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -29,13 +29,13 @@ ht-degree: 2%
 
 ## 资源
 
-* [[!DNL AEM Assets] 用户指南](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/assets)
-* [正在设置 [!DNL AEM Assets] 文件夹结构](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [设置 [!DNL AEM Assets] 文件夹权限](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/configuring/baseline-permissions)
-* [使用收藏集来组织和共享资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/search-and-discovery/collections)
-* [通过机器学习查找视觉上相似的资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [使用动态搜索Facet获取精确准确的搜索结果](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [高级全文搜索语法](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-64/assets/using/gql-search#using)
+* [[!DNL AEM Assets]用户指南](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
+* [正在设置 [!DNL AEM Assets] 文件夹结构](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [设置 [!DNL AEM Assets] 文件夹权限](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [使用收藏集整理和共享资源](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
+* [通过机器学习查找视觉上相似的资源](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [使用动态搜索Facet获取精确和准确的搜索结果](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [高级全文搜索语法](https://experienceleague.adobe.com/en/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## 系列录制
 

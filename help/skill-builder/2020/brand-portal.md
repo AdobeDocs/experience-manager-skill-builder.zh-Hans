@@ -1,7 +1,7 @@
 ---
 title: Brand Portal
 description: 轻松与内部和外部团队共享资产
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Brand Portal
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 3%
+source-wordcount: '149'
+ht-degree: 22%
 
 ---
 
@@ -30,8 +30,8 @@ Brand Portal允许轻松地与内部和外部团队共享资源。
 ## 资源
 
 * [[!UICONTROL Brand Portal]概述](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Brand Portal]视频](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
-* [[!DNL Asset] 来源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
+* [[!UICONTROL Brand Portal]视频](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!DNL Asset]源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## 系列录制
 

@@ -1,20 +1,22 @@
 ---
 cloud: Experience Cloud
-solution: "[!DNL Experience Manager]"
-feature-set: "[!DNL Experience Manager], [!DNL Experience Manager Assets], [!DNL Experience Manager Cloud Manager], [!DNL Experience Manager Sites]"
+solution: Experience Manager
+feature-set: Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Sites
+landing-page-name: experience-manager
+landing-page-breadcrumb-title: AEM
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/experience-manager-skill-builder.zh-Hans
+git-repo: https://github.com/AdobeDocs/experience-manager-skill-builder.en
 index: true
-source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
+source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 97%
+source-wordcount: '46'
+ht-degree: 0%
 
 ---
 
 
-# 内部使用的元数据
+# 元数据供内部使用
 
-metadata.md 文件中包含存储库级别的元数据，这些元数据会传送到存储库中的用户指南 TOC.md 文件。如果要更改任何用户指南的 metadata.md 内容，请在相应的 TOC.md 文件中进行更改。
+metadata.md文件包含存储库级别的元数据，这些元数据会传送到存储库中的用户指南TOC.md文件。 如果要更改任何用户指南的metadata.md内容，请在任何TOC.md文件中进行更改。
