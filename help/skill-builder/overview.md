@@ -2,16 +2,19 @@
 title: Skill Builder概述
 description: 录制的网络研讨会系列，用于构建您的知识库并最大化您对Adobe Experience Manager的投资
 exl-id: 2aa648cc-6a44-4d1d-98ab-a351abc80b6b
-source-git-commit: ea51ea7b5b0a3ff1160d418c524471c0a60359ca
+TQID: https://experienceleague.adobe.com/DBs8CswgvdKhcDyp2fD3ufBqFK4ts8VAsF7QPasXg9o
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 3fdd2bfc409767ca32451c865beb7919f95a7c2f
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: 174
+ht-degree: 2%
 
 ---
 
 # [!DNL Experience Manager]个Skill Builder录制
 
-欢迎访问Adobe[!DNL Experience Manager] Skill Builder录制主页，其中录制了网络研讨会，旨在构建您的知识库并最大化您对Adobe[!DNL Experience Manager]的投资。
+欢迎访问Adobe [!DNL Experience Manager] Skill Builder录制主页，其中录制了网络研讨会，旨在构建您的知识库并最大化您对Adobe [!DNL Experience Manager]的投资。
 
 ## 新增功能
 
