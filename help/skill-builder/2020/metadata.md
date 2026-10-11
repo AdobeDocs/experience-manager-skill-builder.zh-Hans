@@ -12,13 +12,22 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7339
 exl-id: 35b85f97-ffe4-43f9-98ae-dae0d36bae91
-source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 2%
-
 ---
-
 # 元数据 — Adobe [!DNL Experience Manager Assets]系列
 
 使用此由五部分组成的网络研讨会系列来构建您的知识库，并最大限度地增加您在Adobe [!DNL Experience Manager Assets]中的投资。 本课程将全面探讨Adobe [!DNL Experience Manager Assets]的五个基本功能以取代该解决方案，非常适合新手和经验丰富的用户使用。 Adobe专家会审查基础知识，并提供高级见解，为您提供可立即实施的可操作后续步骤。
@@ -29,12 +38,12 @@ ht-degree: 2%
 
 ## 资源
 
-*[使用元数据架构管理资源元数据](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/authoring/metadata)
-*[扩展元数据架构](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[使用层叠元数据优化元数据创作](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[使用元数据配置文件自动将元数据应用到资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[AEM元数据架构](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[管理资源元数据](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[使用元数据架构管理资源元数据](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
+*[扩展元数据架构](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[使用层叠元数据优化元数据创作](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[使用元数据配置文件自动将元数据应用到资源](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[AEM元数据架构](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[管理资源元数据](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## 系列录制
 
