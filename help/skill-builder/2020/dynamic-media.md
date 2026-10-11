@@ -12,13 +12,24 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 2%
-
 ---
-
 # [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets]系列
 
 使用此由五部分组成的网络研讨会系列来构建您的知识库，并最大限度地增加您在Adobe [!DNL Experience Manager Assets]中的投资。 通过重点深入了解您的Adobe [!DNL Experience Manager Assets]五项基本功能（快速熟练掌握），探索或完善您的专业知识。 Adobe专家会审查基础知识，并提供高级见解，为您提供可立即实施的可操作后续步骤。

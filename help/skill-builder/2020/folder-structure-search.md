@@ -12,13 +12,22 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
-
 ---
-
 # 文件夹结构和搜索 — Adobe [!DNL Experience Manager Assets]系列
 
 使用此由五部分组成的网络研讨会系列来构建您的知识库，并最大限度地增加您在Adobe [!DNL Experience Manager Assets]中的投资。 无论您是初次使用Adobe [!DNL Experience Manager Assets]还是改进您的技能，这种对五个关键领域的深入了解都是提升您专业知识的完美方式。 Adobe专家会审查基础知识，并提供高级见解，为您提供可立即实施的可操作后续步骤。
@@ -30,7 +39,7 @@ ht-degree: 1%
 ## 资源
 
 * [[!DNL AEM Assets]用户指南](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/assets)
-* [正在设置 [!DNL AEM Assets] 文件夹结构](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [正在设置 [!DNL AEM Assets] 文件夹结构](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
 * [设置 [!DNL AEM Assets] 文件夹权限](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [使用收藏集整理和共享资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/search-and-discovery/collections)
 * [通过机器学习查找视觉上相似的资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/search-and-discovery/search)
