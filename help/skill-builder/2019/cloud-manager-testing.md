@@ -19,7 +19,7 @@ ht-degree: 3%
 ---
 # 使用[!DNL Cloud Manager]测试最佳实践 — 2019年9月
 
->[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507317/?captions=chi_hans&quality=9&learn=on)
 
 
 **演示者**
